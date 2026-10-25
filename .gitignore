@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+history.json
+.venv/
+venv/
+.env
+.env.*
+!.env.example
